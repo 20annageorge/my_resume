@@ -1,0 +1,23 @@
+$color: black; 
+
+%header-color {
+    color: $color;
+}
+
+body {
+    .myHeader {
+        @extend %header-color; 
+        padding: 40px;
+        text-align: center;
+        font-family: 'Verdana';
+    }
+
+    #katyTrailText, #homepageText {
+        @extend %header-color;
+        text-align: center;
+    }
+
+    #regularText {
+        @extend %header-color;
+    }
+}
