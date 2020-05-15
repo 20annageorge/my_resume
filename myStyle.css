@@ -58,30 +58,6 @@ table#t01 tr:nth-child(odd) {
     background-color: #fff;
 }
 
-#tooltip {
-    position: relative;
-    display: inline-block;
-}
-  
-#tooltip .tooltiptext {
-    visibility: hidden;
-    width: 120px;
-    background-color: black;
-    color: #fff;
-    text-align: center;
-    padding: 5px 5px;
-    border-radius: 6px;
-    position: absolute;
-    z-index: 1;
-    top: 100%;
-    left: 50%;
-    margin-left: -60px;
-}
-
-#tooltip:hover .tooltiptext {
-    visibility: visible;
-}
-
 .topnav {
     background-color: #32b349; 
     overflow: hidden;
@@ -93,9 +69,9 @@ table#t01 tr:nth-child(odd) {
     display: block;
     color:white;
     text-align: center;
-    padding: 1.5% 2.5%;
+    padding: 25px 2%;
     font-family: 'Verdana';
-    font-size: 15px;
+    font-size: 100%;
 }
 
 .topnav a:hover {
@@ -140,6 +116,7 @@ table#t01 tr:nth-child(odd) {
 
 #katyTrail {
     width: 90%;
+    padding-bottom: 5%;
 }
 
 #myHeader {
@@ -153,6 +130,31 @@ table#t01 tr:nth-child(odd) {
     color: black;
 }
 
+#tooltip {
+    position: relative;
+    display: inline-block;
+}
+  
+#tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 5px;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    margin-left: -60px;
+}
+
+#tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
 #violinPic, #aboutImages {
     width: 100%;
+    padding-bottom: 5%;
 }
