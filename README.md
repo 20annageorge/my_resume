@@ -29,5 +29,7 @@ It contains four pages- a home page, about page, resume page, and projects page.
 
 **Projects Page**
 * Has top navigation bar with Home, About, Resume, and Projects options
-
+* Has 4 images of Katy Trail App; hovering over each image with mouse shows a tooltip with description of image
+* Has in-line hyperlink for GitHub repository for Katy Trail app project
+* Clicking green button "Project Documentation" opens a new tab with a pdf of project documentation that user can download
 * Has website footer with contact info, clickable social media icons, and copyright text 
