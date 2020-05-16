@@ -38,3 +38,8 @@ It contains four pages- a home page, about page, resume page, and projects page.
 * color.scss gives developer the ability to change all text colors from black to another color all at once
 * myStyle.css holds all presentation stylings (color, font, spacing) for the web page and contains media queries for page responsiveness for various device sizes
 
+**Notes:**
+* Facebook link leads to "page not found", as my Facebook page is currently set to private
+* Empty space with first paragraph on about page will eventually be filled in by more text
+* Violin picture in about page is unusually positioned when trying to shrink width of page
+* Bottom 4 social media icons are responsive to a large monitor and phone screen but are too small for a medium-sized screen
