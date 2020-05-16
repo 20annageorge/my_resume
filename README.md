@@ -2,7 +2,7 @@
 
 CS50's Web Programming with Python and JavaScript
 
-This project is a website intended as a website resume for Anna George. 
+This project is a website intended as a website resume for me. 
 It contains four pages- a home page, about page, resume page, and projects page.  
 
 **Home Page**
