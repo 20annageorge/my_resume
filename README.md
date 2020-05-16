@@ -33,3 +33,8 @@ It contains four pages- a home page, about page, resume page, and projects page.
 * Has in-line hyperlink for GitHub repository for Katy Trail app project
 * Clicking green button "Project Documentation" opens a new tab with a pdf of project documentation that user can download
 * Has website footer with contact info, clickable social media icons, and copyright text 
+
+**Other files:**
+* color.scss gives developer the ability to change all text colors from black to another color all at once
+* myStyle.css holds all presentation stylings (color, font, spacing) for the web page and contains media queries for page responsiveness for various device sizes
+
