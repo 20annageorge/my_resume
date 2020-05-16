@@ -1,4 +1,4 @@
-$color: black; 
+$color: #242629; 
 
 %header-color {
     color: $color;
@@ -12,7 +12,7 @@ body {
         font-family: 'Verdana';
     }
 
-    #katyTrailText, #homepageText {
+    #homepageText, #katyTrailText {
         @extend %header-color;
         text-align: center;
     }
